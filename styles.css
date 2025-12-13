@@ -1,0 +1,26 @@
+h1 {
+    text-align: center;
+}
+
+img {
+    display: block;
+    align-content: center;
+    margin: 0 auto;
+    height: 250px;
+    width: auto;
+}
+
+.desc {
+    text-align: center;
+}
+
+.desctext {
+    font-size: 20px;
+}
+
+.linklist {
+    font-size: 25px;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
